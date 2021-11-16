@@ -16,17 +16,15 @@ Saat päättää itse missä tietorakenteessa kone ilmoittaa vaihtorahat.
 
 ## Tehtävä 2: Tennistilastot
 
-Asiakas haluaa nähdä mielenkiintoisia tennistilastoja vuosilta 2010-2019. tiedostossa tennistilastot.py on valmiina
-johon tehtävänäsi on implementoida toiminnallisuutta joka näyttää asiakkaalle hänen toivomiaan statistiikoita.
-Tiedostossa on valmiina luokka ja muutama tyhjä funktio mihin voit täyttää toiminnallisuuden, myös seuraavat
-toiminnallisuudet on toivottu:
+Asiakas haluaa nähdä mielenkiintoisia tennistilastoja vuosilta 2010-2019. Tehtävänäsi on implementoida toiminnallisuutta ohjelmaan joka näyttää asiakkaalle hänen toivomiaan statistiikoita.
+Tiedostossa tennistilastot.py on valmiina luokka ja muutamalle toivotulle ominaisuudelle tyhjä funktiopohja mihin voit täyttää toiminnallisuuden. Myös seuraavat toiminnallisuudet on toivottu:
 
-1. Parhaat pelaajat kenttätyypin perusteella.
-2. Paras syöttäjä
-3. Paras palauttaja
-4. Ketkä pelaajat ovat pelanneet eniten otteluita vastakkain
-5. Kuka on voittanut eniten tiukkoja eriä (voittanut erän 6-4, 7-5 tai tiebreikin 7-6)
-6. Kuka on hävinnyt eniten tiukkoja eriä.
+1. Parhaat pelaajat kenttätyypin perusteella?
+2. Paras syöttäjä?
+3. Paras palauttaja?
+4. Ketkä pelaajat ovat pelanneet eniten otteluita vastakkain?
+5. Kuka on voittanut eniten tiukkoja eriä (voittanut erän 6-4, 7-5 tai tiebreikin 7-6)?
+6. Kuka on hävinnyt eniten tiukkoja eriä?
 7. Asiakas ei aina itsekkään tiedä mitä hän tarkalleen haluaa, joten jos löydät datasta jotain mielenkiintoista mitä asiakas saattaisi haluta nähdä voit implementoida sen.
 8. BONUS TEHTÄVÄ: print_bracket_by_tournament funktio ottaa turnauksen id:n ja tulostaa turnauskaavion voittajaan saakka.
 
